@@ -7,7 +7,4 @@ In particular:
 - `Question7.1-4.ipynb`: notebook with solutions for question 7, part 1;
 - `Question7.5.ipynb`: notebook with solutions for question 7, part 2;
 - `CommandLine.sh`: bash script for the command line question;
-- `HTML`, `tsv_1`, `tsv_s`: folders with the produced data;
-- `data_places.tsv`: produced dataset;
-- `Places.txt`: reference file for places urls;
 - `additionalcontent`: zipped folder with additional material produced during the solution process. 
